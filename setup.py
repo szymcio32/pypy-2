@@ -4,6 +4,8 @@ setup(
     name="szymcio322",
     version="0.1.0",
     description="A simple Python package for testing",
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     packages=find_packages(),
     classifiers=[
     "Programming Language :: Python :: 3",
