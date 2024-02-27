@@ -1,3 +1,3 @@
-# pypy-2
+# pypy
 
 test
